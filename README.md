@@ -1,2 +1,3 @@
-# simple-api-service-901j
-Automated issue comment bot repository
+# Simple Api Service 901J
+
+Automated issue comment bot repository.
